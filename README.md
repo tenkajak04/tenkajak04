@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @tenkajak04
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-tenkajak04/tenkajak04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 čau já jsem kajak, žák 2.ročníku v oboru IT
+- 👀 hráč videoher
+- 👀 milovník F1
