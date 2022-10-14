@@ -1,4 +1,4 @@
-- 👋 čau já jsem kajak, žák 2.ročníku v oboru IT
+- 👋 čau já jsem kajak, žák 3.ročníku v oboru IT
 - 👀 hráč videoher
 - 👀 milovník F1
-- 👋 najdete mě na ig,ttv,ytb -> tenkajak
+- 👋 najdete mě na ig,ttv,ytb,twitter -> tenkajak
